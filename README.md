@@ -9,4 +9,4 @@ Email: lubnin.leo@gmail.com
 LinkedIn: https://www.linkedin.com/in/lev-lubnin/
 
 # UPD (12/15/20)
-I added some samples of my test cases and bug reports from Jira (check files). Also, please, check my "AudioStreamingApp.pdf" Mind Map
+I added some samples of my test cases and bug reports from Jira (check files). Also, please, check my [Mind Map for previous project](https://github.com/DotcomUniversal/Portfolio/blob/main/AudioStreamingApp.pdf) 
